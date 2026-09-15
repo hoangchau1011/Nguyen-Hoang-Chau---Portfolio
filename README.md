@@ -68,8 +68,7 @@ I want to develop projects that combine
 
 ## 📫 Contact
 
-- 💻 GitHub: [Misa](https://github.com/)
-- 📧 Email: your-email@example.com
+- 📧 Email: nguyenhoangchau1011@gmail.com
 
 ---
 
