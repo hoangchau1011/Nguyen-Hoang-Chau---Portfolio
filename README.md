@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Misa!
+# 👋 Hi, I'm Hoang Chau!
 
 🎓 Physics Student | HCMUS  
 💻 Interested in Programming, Data Science & Computer Vision  
